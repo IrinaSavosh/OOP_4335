@@ -1,0 +1,35 @@
+{
+   // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+   // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+   // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+   "version": "0.2.0",
+   "configurations": [
+      {
+         "type": "java",
+         "name": "Current File",
+         "request": "launch",
+         "mainClass": "${file}"
+      },
+      {
+         "type": "java",
+         "name": "App",
+         "request": "launch",
+         "mainClass": "App",
+         "projectName": "OOP_4335_c76a8f7e"
+      },
+      {
+         "type": "java",
+         "name": "MainFrame",
+         "request": "launch",
+         "mainClass": "MainFrame",
+         "projectName": "OOP_4335_c76a8f7e"
+      },
+      {
+         "type": "java",
+         "name": "Main",
+         "request": "launch",
+         "mainClass": "sem_1.Main",
+         "projectName": "OOP_4335_c76a8f7e"
+      }
+   ]
+}
